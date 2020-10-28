@@ -1,5 +1,5 @@
 from abc import ABCMeta, abstractmethod
-import PatternIterator as pi
+from patterns.src.IteratorInVisitor import PatternIterator as pi
 from typing import List
 
 class Visitor(metaclass=ABCMeta):
