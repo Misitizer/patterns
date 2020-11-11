@@ -6,3 +6,4 @@
 2) Iterator in Visitor  
 2.1) Iterator  
 2.2) Visitor   
+3) Factory  
