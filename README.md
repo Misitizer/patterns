@@ -7,3 +7,4 @@
 2.1) Iterator  
 2.2) Visitor   
 3) Factory  
+4) IoC (Через внедрение зависимостей DI)  
